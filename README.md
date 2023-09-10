@@ -9,7 +9,9 @@ I'm a passionate Developer from Sydney
 
 💼 FullStack at [Procuret](https://procuret.com/)
 
-👾 I use Vanilla JS, Python-Flask and Postgres. Also learning Kotlin, Swift and C++
+👾 I use Vanilla JS, Python-Flask and Postgres.
+
+🤖 Learning Kotlin, Swift and C++
 
 🖤 When I'm not coding I make art and lift things
 <div>
