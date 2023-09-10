@@ -7,11 +7,11 @@ I'm a passionate Developer from Sydney
 
 **About me**
 
-- 💼 FullStack at [Procuret](https://procuret.com/)
+💼 FullStack at [Procuret](https://procuret.com/)
 
-- 👾 I use Vanilla JS, Pyhton-Flask and Postgres. Also learning Kotlin, Swift and C++
+👾 I use Vanilla JS, Python-Flask and Postgres. Also learning Kotlin, Swift and C++
 
-- 🖤 When I'm not coding I make art and lift things
+🖤 When I'm not coding I make art and lift things
 <div>
 
 ![](https://komarev.com/ghpvc/?username=Barnards&color=FF0000&label=NUMBER+OF+RED+PILL+CHADS+WHO+VISITED+THE+SAUCE:&style=flat)
