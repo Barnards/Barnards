@@ -3,7 +3,7 @@
 
 <div>
 
-![](https://komarev.com/ghpvc/?username=Barnards&color=FF0000&label=NUMBER+OF+RED+PILL+BUGFREES+WHO+VISITED+THE+SAUCE:&style=flat)
+![](https://komarev.com/ghpvc/?username=Barnards&color=FF0000&label=NUMBER+OF+RED+PILL+CHADS+WHO+VISITED+THE+SAUCE:&style=flat)
 
 </div>
 
