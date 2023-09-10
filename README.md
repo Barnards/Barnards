@@ -13,7 +13,7 @@ I'm a passionate Developer from Sydney
 
 🤖 Learning Kotlin, Swift and C++
 
-🖤 When I'm not coding I make art and lift things
+🖤 Interested in making games and Web Apps
 <div>
 
 ![](https://komarev.com/ghpvc/?username=Barnards&color=FF0000&label=NUMBER+OF+RED+PILL+CHADS+WHO+VISITED+THE+SAUCE:&style=flat)
