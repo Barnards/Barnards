@@ -1,7 +1,7 @@
 
   
 <div align = "center">
-<p> Hello! I'm Alchemi, AKA Barnards</p>
+  ** Hello! I'm Alchemi, AKA Barnards**
 
 I'm a passionate Developer from Sydney
 
