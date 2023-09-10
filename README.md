@@ -1,3 +1,6 @@
+
+  
+<div align = "center">
 <p> Hello! I'm Alchemi, AKA Barnards</p>
 
 I'm a passionate Developer from Sydney
@@ -9,9 +12,6 @@ I'm a passionate Developer from Sydney
 - 👾 I use Vanilla JS, Pyhton-Flask and Postgres. Also learning Kotlin, Swift and C++
 
 - 🖤 When I'm not coding I make art and lift things
-  
-<div align = "center">
-
 <div>
 
 ![](https://komarev.com/ghpvc/?username=Barnards&color=FF0000&label=NUMBER+OF+RED+PILL+CHADS+WHO+VISITED+THE+SAUCE:&style=flat)
