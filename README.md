@@ -5,7 +5,7 @@
 
 **About me**
 
-💼 FullStack at [Procuret](https://procuret.com/)
+💼 `FullStack` at [Procuret](https://procuret.com/)
 
 👾 Using: 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
@@ -21,10 +21,9 @@
 🖤 Interested in making games and Web Apps
 <div>
 
-![](https://komarev.com/ghpvc/?username=Barnards&color=FF0000&label=NUMBER+OF+RED+PILL+CHADS+WHO+VISITED+THE+SAUCE:&style=flat)
+![](https://komarev.com/ghpvc/?username=Barnards&color=a573ff&label=VISITORS:&style=flat)
 
 </div>
-
 </div>
 
 
