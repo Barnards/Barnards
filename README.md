@@ -1,7 +1,7 @@
 
   
 <div align = "center">
-<h2>Hello! I'm Alchemi, AKA Barnards</h2>
+<h2>Hello! I'm Michael</h2>
 
 **About me**
 
